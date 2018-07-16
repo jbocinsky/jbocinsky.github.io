@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "James Bocinsky"
 title_separator          : "|"
 name                     : "James Bocinsky"
-description              : "This is my personal bio to keep up to date with past and current projects."
+description              : "My personal bio to keep connected with the world"
 url                      : "https://jbocinsky.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jbocinsky/jbocinsky.github.io"
@@ -58,8 +58,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID

@@ -22,8 +22,8 @@ name                     : "James Bocinsky"
 description              : "This is my personal bio to keep up to date with past and current projects."
 url                      : "https://jbocinsky.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : jbocinsky/jbocinsky.github.io
-teaser                   : /assets/images/James_Bocinsky_FallBackImage.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "jbocinsky/jbocinsky.github.io"
+teaser                   : "/assets/images/James_Bocinsky_FallBackImage.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:

@@ -1,3 +1,11 @@
-# Is this going to work?
+---
+layout: posts
+title: My First Post
+description: This is my first post
+tags: MachineLearning
+permalink: /HelloWorld/
+---
 
-**Bold text** *italic text*
+# Hey it worked!
+
+Hello World :)

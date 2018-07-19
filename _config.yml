@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "en-US"
 title                    : "James Bocinsky"
-title_separator          : "|"
+title_separator          : "-"
 name                     : "James Bocinsky"
 description              : "My personal bio to keep connected with the world"
 url                      : "https://jbocinsky.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

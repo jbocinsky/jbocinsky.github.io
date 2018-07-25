@@ -2,6 +2,7 @@
 layout: single
 permalink: /about/
 author_profile: true
+title: "James Bocinsky"
 toc: true
 toc_label: "Quick Links"
 toc_icon: "list"
@@ -9,7 +10,7 @@ toc_icon: "list"
 
 ## About
 
-James Bocinsky is a M.S. student studying **Computer Engineering** at the University of Florida. Specifically, James is interested in Machine Learning and robitic systems. He has a passion for being good at what he does, problem solving and software development. He also enjoys working with embedded systems to create hardware that you can interact with.
+James Bocinsky is a M.S. student studying Computer Engineering at the University of Florida. Specifically, James is interested in machine learning and robitic systems. He has a passion for being good at what he does, problem solving and software development.
 
 
 ## Current Work
@@ -35,9 +36,9 @@ During his undergraduate program James worked as an intern for [Harris Corporati
 
 ## Education
 
-James has a **history of success** as a student. He graduated high school as valedictorian with a 4.4 GPA. He then took his motivation and success to UF and graduated Cum Laude with a 3.76 GPA. While at UF James took part in various activities like participating in hackathons to collaborate with peers, being an exec board member of the University of Florida club soccer program, and being inducted into Eta Kappa Nu (Computer Engineering Honor's Society). 
+James has a history of success as a student. He graduated high school as valedictorian with a 4.4 GPA. He then took his motivation and success to UF and in 2017 graduated Cum Laude with a 3.76 GPA. While at UF James took part in various activities like participating in hackathons to collaborate with peers, being an exec board member of the University of Florida club soccer program, and being inducted into Eta Kappa Nu (Computer Engineering Honor's Society). 
 
-In 2017, James graduated with his Bachelor of Science in Computer Engineering from the University of Florida. Since then he has started his M.S. program and anticipates graduating in the Spring of 2019.
+James is currently working towareds a M.S. in Computer Engineering and anticipates graduating in the Spring of 2019.
 
 ![alt text](/assets/images/JamesUFGrad.jpg)
 

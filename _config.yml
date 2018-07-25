@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "James Bocinsky"
 description              : "My personal bio to keep connected with the world"
 url                      : "https://jbocinsky.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "jbocinsky/jbocinsky.github.io"
 teaser                   : "/assets/images/James_Bocinsky_FallBackImage.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)

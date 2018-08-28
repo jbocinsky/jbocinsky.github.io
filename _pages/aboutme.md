@@ -10,32 +10,48 @@ toc_icon: "list"
 
 ## About
 
-James Bocinsky is a M.S. student studying Computer Engineering at the University of Florida. Specifically, James is interested in machine learning and robitic systems. He has a passion for being good at what he does, problem solving and software development.
+James Bocinsky is a M.S. student studying Computer Engineering at the University of Florida. Specifically, James works in machine learning and robotic systems. He is passionate for problem solving and software development.
 
 
 ## Current Work
 
-[James](https://faculty.eng.ufl.edu/machine-learning/people/graduate-student/#JamesBocinsky "MLSL Site") is currently working for Dr. Alina Zare in [The Machine Learning and Sensing Lab](https://faculty.eng.ufl.edu/machine-learning/machine-learning-sensing-lab/ "MLSL Site"). He is doing algorithm development for the Army funded project for buried landmine detection. He has been a part of the lab since 2016 and enjoys the opportunites it has provided him. 
+James works with Dr. Alina Zare in the [Machine Learning and Sensing Lab](https://faculty.eng.ufl.edu/machine-learning/machine-learning-sensing-lab/ "MLSL Site") to develop algorithms. He focuses his efforts on developing a multiple instance target signature learning algorithm (MIACE/MISMF) to detect buried landmines for the Army. To develop these algorithms, James works with Electromagnetic Induction (EMI) and Ground Penetrating Radar (GPR) data.
 
 ![alt text](/assets/images/Landmine.jpg)
 
 
 ## Previous Work
 
-During his undergraduate program James worked as an intern for [Harris Corporation](https://www.harris.com/ "harris.com") in 2016 and 2017. 
+James worked as an intern for [Harris Corporation](https://www.harris.com/ "harris.com") in 2016 and 2017. 
 
-* During his first internship he developed tools for the FAA to handle various types of messages passed from airplanes and towers. 
+* At his first internship, James developed message passing tools for the FAA. These tools were abstract, handling any type of message passed autonomously between airplanes and towers. He developed a Java threadpool executor to pass high throughput messages off to worker threads for processing.
 
-* During his second internship James worked on the [T7 robot](https://www.harris.com/solution/t7-multi-mission-robotic-system "harris.com") by constructing a multicast messaging protocol for their Hercules processors as well as programing the software support for their smart battery CAN messages. 
+<p align="center">
+	<img src="/assets/images/HarrisFTI2.jpg">
+</p>
+  
+
+
+* At his second internship, James worked on the [T7 robot](https://www.harris.com/solution/t7-multi-mission-robotic-system "harris.com") envisioned for EOD. He developed a complete multicast messaging protocol for their Hercules processors as well as the framework needed to support the onboard, smart battery CAN messages.
 
 ![alt text](/assets/images/T7Robot.jpg)
 
 
 ## Education
 
-James has a history of success as a student. He graduated high school as valedictorian with a 4.4 GPA. He then took his motivation and success to UF and in 2017 graduated Cum Laude with a 3.76 GPA. While at UF James took part in various activities like participating in hackathons to collaborate with peers, being an exec board member of the University of Florida club soccer program, and being inducted into Eta Kappa Nu (Computer Engineering Honor's Society). 
+James has a history of success as a student. He graduated high school as valedictorian with a 4.4 GPA. He then took his motivation and success to UF and in 2017 graduated Cum Laude with a 3.76 GPA. 
 
-James is currently working towards a M.S. in Computer Engineering and anticipates graduating in the Spring of 2019.
+While at UF, James has been a go-getter by partaking in various activities like:
+
+* Inducting into Eta Kappa Nu (Computer Engineering Honor's Society). 
+
+* Collaborating with peers at UF hackathons
+
+* Elected as an exec board member of the University of Florida club soccer program
+
+* Constructing and teaching a 6 week machine learning course. 
+
+James is currently working towards a M.S. in Computer Engineering, focused on Machine Learning, and anticipates graduating in the Spring of 2019.
 
 ![alt text](/assets/images/JamesUFGrad.jpg)
 

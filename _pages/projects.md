@@ -16,7 +16,7 @@ feature_row2:
   - image_path: assets/images/SeniorProject1AlarmPCB.PNG
     title: "Sunrise Alarm"
     excerpt: "An alarm that wakes you up slowly with light"
-    url: "#test-link"
+    url: "/blog/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
@@ -24,15 +24,15 @@ feature_row3:
   - image_path: assets/images/DeepQLearningMountainCar.jpg
     title: "Deep Double Q Learning"
     excerpt: "Deep reinforcement model that learns how to beat classic control problems"
-    url: "#test-link"
+    url: "/blog/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
 feature_row4:
-  - image_path: assets/images/seniorProjectCropped.jpg
+  - image_path: assets/images/MachineLearningCourseCode.PNG
     title: "Machine Learning Course"
     excerpt: "Introduction to machine learning course"
-    url: "#test-link"
+    url: "/blog/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---

@@ -7,13 +7,13 @@ permalink: /projects/
 feature_row1:
   - image_path: assets/images/seniorProjectCropped.jpg
     title: "Autonomous Turret"
-    excerpt: "Portal game inspired, face tracking autonomous turret"
+    excerpt: "A Portal game inspired, face tracking autonomous turret"
     url: "/blog/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
 feature_row2:
-  - image_path: assets/images/seniorProjectCropped.jpg
+  - image_path: assets/images/SeniorProject1AlarmPCB.PNG
     title: "Sunrise Alarm"
     excerpt: "An alarm that wakes you up slowly with light"
     url: "#test-link"
@@ -21,9 +21,9 @@ feature_row2:
     btn_class: "btn--primary"
 
 feature_row3:
-  - image_path: assets/images/seniorProjectCropped.jpg
-    title: "Deep Q Learning"
-    excerpt: "Machine learning, reinforcement model that learns how to beat simple games"
+  - image_path: assets/images/DeepQLearningMountainCar.jpg
+    title: "Deep Double Q Learning"
+    excerpt: "Deep reinforcement model that learns how to beat classic control problems"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"

@@ -6,6 +6,9 @@ title: "James Bocinsky"
 toc: true
 toc_label: "Quick Links"
 toc_icon: "list"
+
+header:
+  teaser: assets/images/JamesUFGrad.jpg
 ---
 
 ## About

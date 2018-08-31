@@ -4,6 +4,9 @@ layout: archive
 author_profile: true
 permalink: /projects/
 
+header:
+  teaser: assets/images/JamesUFGrad.jpg
+
 feature_row1:
   - image_path: assets/images/seniorProjectCropped.jpg
     title: "Autonomous Turret"

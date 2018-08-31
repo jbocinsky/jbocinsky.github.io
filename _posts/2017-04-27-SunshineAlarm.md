@@ -7,7 +7,7 @@ header:
   teaser: assets/images/SeniorProject1AlarmPCB.PNG
 ---
 
-For my first senior project, unlike most students, I created something that I could use in my day to day life. I often wake up before the sun rises to get a head start on the day, but found myself having a tough time getting out of bed. I knew if I could wake more naturally I would have a better day. So I decided to make a light alarm.
+For my first senior project, unlike most students, I created something that I could use in my day to day life. I often wake up before the sun rises to get a head start on the day, but found myself having a tough time getting out of bed. I knew if I could wake more naturally I would have a better day. So I decided to make a light alarm clock.
 
 
 <p align="center">
@@ -15,19 +15,21 @@ For my first senior project, unlike most students, I created something that I co
 </p>
 
 
-The alarm's main components consisted of the following:
+The alarm's core components consisted of the following:
 
 * A personally developed PCB
 
-* A 40 pin PIC Microprocessor
+* A 40 pin PIC microprocessor
 
 * A RTC
 
-* An LCD display
+* A LCD display
 
-* Multiple Buttons and Potentiometers for user's input
+* Multiple buttons and potentiometers for user's input
 
 * A very bright LED
+
+---
 
 Full Bill of Materials for the project:
 
@@ -40,33 +42,39 @@ Full Bill of Materials for the project:
 
 Through this project I was able to accomplish:
 
-1. Writing an I2C library
+1. Creating a custom PCB in Altium
 
 2. Setting up a multiple state embedded processor 
 
-3. Accessing register information from an RTC
+3. Writing a I2C library for the PIC
 
-4. Displaying current state information on LCD
+4. Accessing register information from a RTC
 
-5. Using pulse width modulation to control LED brightness
+5. Displaying current state information on LCD
 
-6. Power regulation through an LDO and capacitors
+6. Controling LED brightness with pulse width modulation
 
-7. Powering a semi "high" current LED through a power mosfet
+7. Power regulation through a LDO and capacitors
+
+8. Powering a semi "high" current LED through a power mosfet
 
 9. Using ADCs to read potentiometers (selectors)
 
-10. Using the DAC to conrtol brightness of LCD
+10. Using a DAC to conrtol brightness of LCD
 
-11. Use interrupts to receive button presses
+11. Using interrupts to receive button presses
 
 <figure class="half">
 	<img src="/assets/images/SunshineAlarmPCB1.PNG">
 	<img src="/assets/images/SunshineAlarmPCB2.PNG">
-	<figcaption>PCB Design and Layer Pours</figcaption>
+	<figcaption>PCB design and layer pours</figcaption>
 </figure>
 
 
----
-
 If you would like to check out the detailed project report or source code please check out my [github repository](https://github.com/jbocinsky/SunshineAlarm "Sunshine Alarm Repository").
+
+
+Thanks,  
+James
+
+---

@@ -27,7 +27,7 @@ feature_row3:
   - image_path: assets/images/DeepQLearningMountainCar.jpg
     title: "Deep Double Q Learning"
     excerpt: "Deep reinforcement model that learns how to beat classic control problems"
-    url: "/blog/"
+    url: "/DoubleQLearning/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
@@ -35,7 +35,7 @@ feature_row4:
   - image_path: assets/images/MachineLearningCourseCode.PNG
     title: "Machine Learning Course"
     excerpt: "Introduction to machine learning course"
-    url: "/blog/"
+    url: "/MachineLearningCourse/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---

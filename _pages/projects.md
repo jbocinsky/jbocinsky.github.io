@@ -8,7 +8,7 @@ feature_row1:
   - image_path: assets/images/seniorProjectCropped.jpg
     title: "Autonomous Turret"
     excerpt: "A Portal game inspired, face tracking autonomous turret"
-    url: "/blog/"
+    url: "/AutonomousTurret/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 

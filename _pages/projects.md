@@ -19,7 +19,7 @@ feature_row2:
   - image_path: assets/images/SeniorProject1AlarmPCB.PNG
     title: "Sunrise Alarm"
     excerpt: "An alarm that wakes you up slowly with light"
-    url: "/blog/"
+    url: "/SunshineAlarm/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 

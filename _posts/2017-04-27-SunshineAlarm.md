@@ -7,6 +7,8 @@ header:
   teaser: assets/images/SeniorProject1AlarmPCB.PNG
 ---
 
+## Objective
+
 For my first senior project, unlike most students, I created something that I could use in my day to day life. I often wake up before the sun rises to get a head start on the day, but found myself having a tough time getting out of bed. I knew if I could wake more naturally I would have a better day. So I decided to make a light alarm clock.
 
 
@@ -14,6 +16,9 @@ For my first senior project, unlike most students, I created something that I co
 	<img src="/assets/images/SeniorProject1AlarmPCB.PNG">
 </p>
 
+---
+
+## Materials
 
 The alarm's core components consisted of the following:
 
@@ -29,7 +34,6 @@ The alarm's core components consisted of the following:
 
 * A very bright LED
 
----
 
 Full Bill of Materials for the project:
 
@@ -39,6 +43,8 @@ Full Bill of Materials for the project:
 </p>
 
 ---
+
+## Accomplishments
 
 Through this project I was able to accomplish:
 

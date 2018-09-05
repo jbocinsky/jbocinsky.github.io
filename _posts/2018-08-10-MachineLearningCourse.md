@@ -56,7 +56,7 @@ The students enjoyed the class and were happy to get exposure to machine learnin
 
 ## Class Materials Repository
 
-If you would like to check out the class materials please check out my [github repository](https://github.com/jbocinsky/SunshineAlarm "Machine Learning Course Repository").
+If you would like to check out the class materials please check out my [github repository](https://github.com/jbocinsky/MachineLearningCourse "Machine Learning Course Repository").
 
 
 Thanks,  

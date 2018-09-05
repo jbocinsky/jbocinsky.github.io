@@ -50,12 +50,15 @@ Training the model can be simplified to a 2 step process:
 ## Results
 
 ### Training Moutain Car Game:
-<video muted autoplay controls width="480" height="320">
+<video muted controls width="480" height="320">
   <source src="/assets/images/DeepQLearningTrainingMountainCar.mp4" type="video/mp4">
 </video>
 
 
 ### Training Pole Cart Game:
+<video muted controls width="480" height="320">
+  <source src="/assets/images/DeepQLearningTrainingPoleCart.mp4" type="video/mp4">
+</video>
 
 
 While completing this project I was able to experiment with different tools to develop neural networks like:

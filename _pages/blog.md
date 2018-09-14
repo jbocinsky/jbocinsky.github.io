@@ -1,8 +1,10 @@
 ---
-layout: home
+layout: posts
 title: Blog
 permalink: /blog/
+category: blog
 author_profile: true
----
 
-Currently under construction.
+header:
+  teaser: assets/images/JamesUFGrad.jpg
+---

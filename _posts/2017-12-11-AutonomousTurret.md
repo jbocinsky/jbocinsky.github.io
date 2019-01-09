@@ -118,7 +118,7 @@ Through this project we were able to accomplish:
 
 9. Designing and 3D printing custom mounts to hold nerf guns to pan tilt mounts and push arm for stepper motors 
 
-10. Firing nerf guns via mounted stepper motors
+10. Shooting nerf guns via mounted stepper motors
 
 
 ---

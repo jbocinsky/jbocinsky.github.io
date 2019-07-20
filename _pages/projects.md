@@ -7,6 +7,14 @@ permalink: /projects/
 header:
   teaser: assets/images/JamesUFGrad.jpg
 
+feature_row0:
+  - image_path: assets/images/ThesisGulfportRGBZoomed.jpg
+    title: "Master's Thesis"
+    excerpt: "Machine learning target detection from ambiguous, imprecise data"
+    url: "/ThesisDefended/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 feature_row1:
   - image_path: assets/images/seniorProjectCropped.jpg
     title: "Autonomous Turret"
@@ -42,10 +50,12 @@ feature_row4:
 
 ---
 
-{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row0" type="left" %}
 
-{% include feature_row id="feature_row2" type="right" %}
+{% include feature_row id="feature_row1" type="right" %}
 
-{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row4" type="right" %}
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="left" %}

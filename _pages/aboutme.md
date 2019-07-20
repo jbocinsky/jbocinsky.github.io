@@ -13,7 +13,7 @@ header:
 
 ## About
 
-James Bocinsky is a M.S. student studying Computer Engineering at the University of Florida. Specifically, James works in machine learning and robotic systems. He is passionate for problem solving and software development.
+James Bocinsky is a M.S. student studying Computer Engineering at the University of Florida. Specifically, James works on machine learning and robotic systems. He is passionate for problem solving and software development.
 
 
 ## Current Work

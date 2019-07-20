@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Project - Deep Double Q Learning
+title: Deep Double Q Learning
 description: Deep reinforcement model that learns how to beat classic control problems
 tags: Projects
 

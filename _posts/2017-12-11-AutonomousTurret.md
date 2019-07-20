@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Project - Autonomous Turret
+title: Autonomous Turret
 description: A Portal game inspired, face tracking autonomous turret
 tags: Projects
 header:

@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Project - Sunshine Alarm
+title: Sunshine Alarm
 description: An alarm that wakes you up slowly with light
 tags: Projects
 header:

@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Project - Machine Learning Course
+title: Machine Learning Course
 description: A 6-week intro to machine learning course that I designed and instructed for UF engineering freshman
 tags: Projects
 header:

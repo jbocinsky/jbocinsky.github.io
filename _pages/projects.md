@@ -7,7 +7,7 @@ permalink: /projects/
 header:
   teaser: assets/images/JamesUFGrad.jpg
 
-feature_row0:
+thesis:
   - image_path: assets/images/ThesisGulfportRGBZoomed.jpg
     title: "Master's Thesis"
     excerpt: "Machine learning target detection from ambiguous, imprecise data"
@@ -15,7 +15,7 @@ feature_row0:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row1:
+autonomous_turret:
   - image_path: assets/images/seniorProjectCropped.jpg
     title: "Autonomous Turret"
     excerpt: "A Portal game inspired, face tracking autonomous turret"
@@ -23,7 +23,15 @@ feature_row1:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row2:
+graduation_cap:
+  - image_path: assets/images/MSGradVid.gif
+    title: "LED Graduation Cap"
+    excerpt: "A LED matrix gif and text displaying graduation cap"
+    url: "/GraduationCap/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+sunshine_alarm:
   - image_path: assets/images/SeniorProject1AlarmPCB.PNG
     title: "Sunrise Alarm"
     excerpt: "An alarm that wakes you up slowly with light"
@@ -31,7 +39,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row3:
+deep_q_learning:
   - image_path: assets/images/DeepQLearningMountainCar.jpg
     title: "Deep Double Q Learning"
     excerpt: "Deep reinforcement model that learns how to beat classic control problems"
@@ -39,7 +47,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row4:
+machine_learning_course:
   - image_path: assets/images/MachineLearningCourseCode.PNG
     title: "Machine Learning Course"
     excerpt: "Introduction to machine learning course"
@@ -50,12 +58,14 @@ feature_row4:
 
 ---
 
-{% include feature_row id="feature_row0" type="left" %}
+{% include feature_row id="thesis" type="left" %}
 
-{% include feature_row id="feature_row1" type="right" %}
+{% include feature_row id="autonomous_turret" type="right" %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="graduation_cap" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="sunshine_alarm" type="right" %}
 
-{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="deep_q_learning" type="left" %}
+
+{% include feature_row id="machine_learning_course" type="right" %}

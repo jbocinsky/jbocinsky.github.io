@@ -26,7 +26,7 @@ autonomous_turret:
 graduation_cap:
   - image_path: assets/images/MSGradVid.gif
     title: "LED Graduation Cap"
-    excerpt: "A LED matrix gif and text displaying graduation cap"
+    excerpt: "A LED matrix GIF and text displaying graduation cap"
     url: "/GraduationCap/"
     btn_label: "Read More"
     btn_class: "btn--primary"

@@ -13,14 +13,14 @@ header:
 
 ## Master's Thesis
 
-[PDF Download]({{ site.url }}/assets/images/publications/Thesis.pdf)
+[Learning multiple target concepts from uncertain, ambiguous data using the Adaptive Cosine Estimator and Spectral Match Filter]({{ site.url }}/assets/images/publications/Thesis.pdf)
 
-## SPIE Conference MI-ACE Initialization Approaches
+## MI-ACE Initialization Approach Comparison
 
-[PDF Download]({{ site.url }}/assets/images/publications/SPIEMIACE.pdf)
+[Investigation of initialization strategies for the Multiple Instance Adaptive Cosine Estimator]({{ site.url }}/assets/images/publications/SPIEMIACE.pdf)
 
-## SPIE Conference Electromagnetic Induction Algorithm Comparisons
+## Electromagnetic Induction Algorithm Comparison
 
-[PDF Download]({{ site.url }}/assets/images/publications/SPIEWEMIComparison.pdf)
+[Comparison of hand-held WEMI target detection algorithms]({{ site.url }}/assets/images/publications/SPIEWEMIComparison.pdf)
 
 ## More coming soon...

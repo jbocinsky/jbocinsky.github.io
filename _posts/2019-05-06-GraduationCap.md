@@ -48,8 +48,8 @@ In this project I created a graduation cap that I could wear during graduation t
 First we need to dissassemble the cap to see what we are working with. Most caps are similar where it is simply some fabric wrapped around coardboard with a thumbnail type connection for the stump at the center of the cap where the tassel attaches. As well a small separate piece of fabric glued to the base that holds the cap to your head. Here you can see what the cap looks like disassembled. Make sure when you disassemble this yourself you preserve the condition of the separate piece that holds the cap to your head. We will reuse this piece.
 
 <figure class="half">
-	<img src="/assets/images/GraduationCapPics/Disassemble1.jpg">
-	<img src="/assets/images/GraduationCapPics/Disassemble2.jpg">
+	<img src="/assets/images/GraduationCapPics/Disassemble1.JPG">
+	<img src="/assets/images/GraduationCapPics/Disassemble2.JPG">
 	<figcaption>Graduation cap disassembly</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ To use GIFs on the LED matrix, the GIFs need to be formatted to fit the screen. 
 Once you've formatted the GIFs as specified you will need to place them on your microSD card in the folder specified in the code. Then the teensy will search that folder to read the GIFs in for displaying them.
 
 <p align="center">
-	<img src="/assets/images/GraduationCapPics/SDCard.JPG"  width="400" height ="400"/> 
+	<img src="/assets/images/GraduationCapPics/SDCard.jpg"  width="400" height ="400"/> 
 </p>
 
 
@@ -207,7 +207,7 @@ Then, we can cut a hole in the back portion of the head liner carboard that sits
 Here you can see the final results of our cap. It's certainly fun to play with and will remain on my wall for the future.
 
 <p align="center">
-	<img src="/assets/images/GraduationCapPics/Graduation1.JPG"/> 
+	<img src="/assets/images/GraduationCapPics/Graduation1.jpg"/> 
 </p>
 
 <p align="center">

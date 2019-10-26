@@ -23,7 +23,7 @@ Over the course of my studies at the University of Florida I developed algorithm
 The Multiple Instance Adpative Cosine Estimator and Spectral Match Filter (MI-ACE and MI-SMF) learns a single target signature that maximizes the following objective function.
 
 <p align="center">
-	<img src="/assets/images/ThesisMIACEObjFun.PNG"/> 
+	<img src="/assets/images/ThesisMIACEObjFun.png"/> 
 </p>
 
 This algorithm assumes the data follows the multiple instance learning framework, where the data has been labeled into two types of groups or bags, positive and negative. A positive bag is defined as a group of data points where at least one of the data points, also known as instances, is an item of interest, known as a target instance(s). A negative bag is defined as a group of data points where all of the data points are pure background, known as non-target instances.
@@ -58,7 +58,7 @@ To aid in time complexity and generalization, different clustering approaches we
 Instead of needing to search through N possible candidates (10,000's), the algorithm would only need to search through C possible candidates (~50). This further reduced time complexity to O(CK) and aided in generalization. The clustering methods explored were k-means clustering, ranked k-means clustering, and multiple instance cluster regression which is based on Gaussian Mixture Models. Of these, on the hyperspectral datasets used, k-means was seen to be the most consistent and outperformed all other approaches during the initialization step.
 
 <p align="center">
-	<img src="/assets/images/K-MeansClusteringExample.PNG"  width="400" height ="400"/> 
+	<img src="/assets/images/K-MeansClusteringExample.png"  width="400" height ="400"/> 
 </p>
 
 ### Weighted Approaches
@@ -66,11 +66,11 @@ Instead of needing to search through N possible candidates (10,000's), the algor
 Furthermore, I explored using weighted approaches to aid in the optimization step. It was noticed that it was difficult for the algorithm to learn different types of target concepts. So by including a weighted term that was related to the similarity of learned target concepts to the target concept it was currently optimizing, the target concepts could be differentiated and more unique. Two weighted approaches were explored, using the ACE or SMF similarity to weight the update term during optimization and using the ACE or SMF similarity passed through a gaussian Kernel to push the similarities to their extreme values of zerp and one.
 
 <p align="center">
-	<img src="/assets/images/ThesisWeightedUpdateEquation.PNG"/> 
+	<img src="/assets/images/ThesisWeightedUpdateEquation.png"/> 
 </p>
 
 <p align="center">
-	<img src="/assets/images/ThesisWeightedKernelUpdateEquation.PNG"/> 
+	<img src="/assets/images/ThesisWeightedKernelUpdateEquation.png"/> 
 </p>
 
 ### Uniqueness Term
@@ -78,7 +78,7 @@ Furthermore, I explored using weighted approaches to aid in the optimization ste
 Lastly, a uniqueness term was explored to further encourage target concept uniqueness. By using this, the algorithm's objective function was discouraged to initialize and optimize any two target concepts in being the same. This term was also configurable with a weight term alpha that helped the user specify how similar target concepts could be. The larger the alpha value specified the more unique the resulting signatures would be.
 
 <p align="center">
-	<img src="/assets/images/ThesisUniquenessTerm.PNG"/> 
+	<img src="/assets/images/ThesisUniquenessTerm.png"/> 
 </p>
 
 ---

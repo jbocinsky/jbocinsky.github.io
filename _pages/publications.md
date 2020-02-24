@@ -28,4 +28,6 @@ header:
 [Developing Spectral Libraries Using Multiple Target Multiple Instance Adaptive Cosine/Coherence Estimator]({{ site.url }}/assets/images/publications/MTMIACE_Spectral_Libraries.pdf)
 
 
-## More coming soon...
+## (DRAFT) Developing Multiple Target Hyperspectal Libraries
+
+[Multi-Target Multiple Instance Learning for Hyperspectral Target Detection]({{ site.url }}/assets/images/publications/MTMIACE.pdf)

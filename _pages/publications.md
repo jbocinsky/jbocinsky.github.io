@@ -23,4 +23,9 @@ header:
 
 [Comparison of hand-held WEMI target detection algorithms]({{ site.url }}/assets/images/publications/SPIEWEMIComparison.pdf)
 
+## Developing Multiple Target Hyperspectal Libraries
+
+[Developing Spectral Libraries Using Multiple Target Multiple Instance Adaptive Cosine/Coherence Estimator]({{ site.url }}/assets/images/publications/MTMIACE_Spectral_Libraries.pdf)
+
+
 ## More coming soon...

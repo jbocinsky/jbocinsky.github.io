@@ -23,11 +23,12 @@ header:
 
 [Comparison of hand-held WEMI target detection algorithms]({{ site.url }}/assets/images/publications/SPIEWEMIComparison.pdf)
 
-## Developing Multiple Target Hyperspectal Libraries
+## Developing Multiple Target Hyperspectral Libraries
 
 [Developing Spectral Libraries Using Multiple Target Multiple Instance Adaptive Cosine/Coherence Estimator]({{ site.url }}/assets/images/publications/MTMIACE_Spectral_Libraries.pdf)
 
 
-## (DRAFT) Developing Multiple Target Hyperspectal Libraries
+## (DRAFT) Hyperspectral Target Detection
 
-[Multi-Target Multiple Instance Learning for Hyperspectral Target Detection]({{ site.url }}/assets/images/publications/MTMIACE.pdf)
+[(DRAFT) Multi-Target Multiple Instance Learning for Hyperspectral Target Detection]({{ site.url }}/assets/images/publications/MTMIACE.pdf)
+https://arxiv.org/abs/1909.03316

@@ -14,7 +14,9 @@ header:
 ## (DRAFT) Hyperspectral Target Detection
 
 [(DRAFT) Multi-Target Multiple Instance Learning for Hyperspectral Target Detection]({{ site.url }}/assets/images/publications/MTMIACE.pdf)
-https://arxiv.org/abs/1909.03316
+
+[Arxiv Link](https://arxiv.org/abs/1909.03316 "Multi-Target Multiple Instance Learning for Hyperspectral Target Detection")
+
 
 ## Developing Multiple Target Hyperspectral Libraries
 

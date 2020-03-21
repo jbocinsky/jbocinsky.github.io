@@ -11,7 +11,7 @@ header:
   teaser: assets/images/JamesUFGrad.jpg
 ---
 
-## (SUBMITTED) Hyperspectral Target Detection
+## Hyperspectral Target Detection
 
 [(Submitted) Multi-Target Multiple Instance Learning for Hyperspectral Target Detection]({{ site.url }}/assets/images/publications/MTMIACE.pdf)
 

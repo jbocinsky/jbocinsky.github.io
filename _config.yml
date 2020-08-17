@@ -100,7 +100,7 @@ analytics:
 # Site Author
 author:
   name: "James Bocinsky"
-  avatar: "/assets/images/JamesHeadshot1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/James_Bocinsky_Headshot_2020.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "ECE M.S. at University of Florida"
   location: "Sunrise, Florida"
   email: "jbocinsky AT ufl.edu"

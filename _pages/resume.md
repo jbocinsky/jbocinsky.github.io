@@ -20,10 +20,10 @@ header:
 
 
 <p align="center">
-	<img src="/assets/images/JamesBocinskyResumeFall2019.PNG">
+	<img src="/assets/images/JamesBocinskyResume2020.PNG">
 </p>
 
-[PDF Download]({{ site.url }}/assets/images/JamesBocinskyResumeFall2019.pdf)
+[PDF Download]({{ site.url }}/assets/images/JamesBocinskyResume2020.pdf)
 
 ---
 

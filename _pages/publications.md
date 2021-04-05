@@ -13,7 +13,7 @@ header:
 
 ## Hyperspectral Target Detection
 
-[(Submitted) Multi-Target Multiple Instance Learning for Hyperspectral Target Detection]({{ site.url }}/assets/images/publications/MTMIACE.pdf)
+[(Submitted) Multi-Target Multiple Instance Learning for Hyperspectral Target Detection]({{ site.url }}/assets/images/publications/Multitarget-Multiple-Instance-Learning-for-Hyperspectral-Target-Detection.pdf)
 
 [IEEE Xplore Link](https://ieeexplore.ieee.org/document/9375470 "Multi-Target Multiple Instance Learning for Hyperspectral Target Detection")
 

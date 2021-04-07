@@ -23,7 +23,7 @@ header:
 	<img src="/assets/images/JamesBocinskyResume2021.PNG">
 </p>
 
-[PDF Download]({{ site.url }}/assets/images/JamesBocinskyResume2020.pdf)
+[PDF Download]({{ site.url }}/assets/images/JamesBocinskyResume2021.pdf)
 
 ---
 
